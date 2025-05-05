@@ -1,0 +1,75 @@
+[
+  {
+    "query": "I am hiring for Java developers who can also collaborate effectively with my business teams. Looking for an assessment(s) that can be completed in 40 minutes.",
+    "expected_assessments": [
+      "Automata - Fix (New)",
+      "Core Java (Entry Level) (New)",
+      "Java 8 (New)",
+      "Core Java (Advanced Level) (New)",
+      "Agile Software Development",
+      "Technology Professional 8.0 Job Focused Assessment",
+      "Computer Science (New)"
+    ]
+  },
+  {
+    "query": "I want to hire new graduates for a sales role in my company, the budget is for about an hour for each test. Give me some options.",
+    "expected_assessments": [
+      "Entry level Sales 7.1 (International)",
+      "Entry Level Sales Sift Out 7.1",
+      "Entry Level Sales Solution",
+      "Sales Representative Solution",
+      "Sales Support Specialist Solution",
+      "Technical Sales Associate Solution",
+      "SVAR - Spoken English (Indian Accent) (New)",
+      "Sales & Service Phone Solution",
+      "Sales & Service Phone Simulation",
+      "English Comprehension (New)"
+    ]
+  },
+  {
+    "query": "I am looking for a COO for my company in China and I want to see if they are culturally a right fit for our company. Suggest me an assessment that they can complete in about an hour.",
+    "expected_assessments": [
+      "Motivation Questionnaire MQM5",
+      "Global Skills Assessment",
+      "Graduate 8.0 Job Focused Assessment"
+    ]
+  },
+  {
+    "query": "Content Writer required, expert in English and SEO.",
+    "expected_assessments": [
+      "Drupal (New)",
+      "Search Engine Optimization (New)",
+      "Administrative Professional - Short Form",
+      "Entry Level Sales Sift Out 7.1",
+      "General Entry Level \u2013 Data Entry 7.0 Solution"
+    ]
+  },
+  {
+    "query": "Find me 1 hour long assessment for the below job at SHL. Job description: QA Engineer, working with JavaScript, HTML, Selenium, SQL, Manual Testing.",
+    "expected_assessments": [
+      "Automata Selenium",
+      "Automata - Fix (New)",
+      "Automata Front End",
+      "JavaScript (New)",
+      "HTML/CSS (New)",
+      "HTML5 (New)",
+      "CSS3 (New)",
+      "Selenium (New)",
+      "SQL Server (New)",
+      "Automata - SQL (New)",
+      "Manual Testing (New)"
+    ]
+  },
+  {
+    "query": "ICICI Bank Assistant Admin, Experience required 0-2 years, test should be 30-40 mins long.",
+    "expected_assessments": [
+      "Administrative Professional - Short Form",
+      "Verify - Numerical Ability",
+      "Financial Professional - Short Form",
+      "Bank Administrative Assistant - Short Form",
+      "General Entry Level \u2013 Data Entry 7.0 Solution",
+      "Basic Computer Literacy (Windows 10) (New)",
+      "Verify - Verbal Ability - Next Generation"
+    ]
+  }
+]
