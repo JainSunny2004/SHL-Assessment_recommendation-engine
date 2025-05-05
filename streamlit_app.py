@@ -13,7 +13,7 @@ import requests
 from typing import List, Dict, Any, Optional
 
 # Constants
-API_URL = os.getenv("API_URL", "http://localhost:8000")  # Default to localhost
+API_URL = https://shl-assessment-recommendation-engine-api-tn5h.onrender.com/recommend # Default to localhost
 DEFAULT_EXAMPLE = """
 Job Title: Sales Account Manager
 
