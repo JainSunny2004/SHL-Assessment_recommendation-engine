@@ -13,7 +13,7 @@ import requests
 from typing import List, Dict, Any, Optional
 
 # Constants
-API_URL = https://shl-assessment-recommendation-engine-api-tn5h.onrender.com # Default to localhost
+API_URL =" https://shl-assessment-recommendation-engine-api-tn5h.onrender.com" # Default to localhost
 DEFAULT_EXAMPLE = """
 Job Title: Sales Account Manager
 
