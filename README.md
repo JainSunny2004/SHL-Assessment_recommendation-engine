@@ -120,15 +120,6 @@ shl-recommender/
 ├── shl_assessments.json  # Sample assessment data
 ├── test_queries1.json    # Test queries with expected results
 ├── requirements.txt      # Python dependencies
-├── Dockerfile            # Docker configuration
 └── README.md             # Project documentation
 ```
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- SHL for providing the assessment catalog data
-- The FastAPI and Streamlit teams for their excellent frameworks
