@@ -12,7 +12,7 @@ A content-based recommendation system that matches job descriptions with relevan
 
 ## Live Demo & API
 
-- **Demo URL**: [https://shl-recommender-demo.example.com](https://shl-recommender-demo.example.com)
+- **Demo URL**: [https://shl-assessment-recommendation-engine-ui.onrender.com/](https://shl-assessment-recommendation-engine-ui.onrender.com)
 - **API Endpoint**: [https://shl-assessment-recommendation-engine-api-tn5h.onrender.com/recommend](https://shl-assessment-recommendation-engine-api-tn5h.onrender.com/recommend)
 - **API Documentation**: [https://shl-assessment-recommendation-engine-api-tn5h.onrender.com/docs](https://shl-assessment-recommendation-engine-api-tn5h.onrender.com/docs)
 
