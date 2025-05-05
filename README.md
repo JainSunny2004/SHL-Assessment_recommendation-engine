@@ -8,7 +8,7 @@ A content-based recommendation system that matches job descriptions with relevan
 - **FastAPI Backend**: High-performance API with automatic documentation
 - **Streamlit UI**: Interactive user interface for testing and demonstration
 - **Evaluation Framework**: Built-in evaluation using standard IR metrics (Recall@k, MAP@k)
-- **Docker Support**: Easy deployment with Docker
+- **Render Support**: Easy deployment with Render Web Services
 
 ## Live Demo & API
 
